@@ -1,0 +1,13 @@
+Shopping Cart is a real time database shopping-list managing app. It shows HTTP working Procedure.
+Features:
+    -> Adding the http package
+    -> Sending a POST req to the backend
+    -> Working with the req and waiting for the response
+    -> Fetching and transforming data
+    -> Avoiding unnecessary req
+    -> Managing loading state
+    -> Error Response handling
+    -> Sending DELETE req
+    -> Handling No data case
+    -> Better Error Handling
+    
